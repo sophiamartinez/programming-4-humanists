@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Large Red Man Reading: </title>
+				<title type="subordinate">An Electronic Edition</title>
+				<author><name>Stevens, Wallace, 1879-1955</name></author>
+				<editor><name>Mandell, Laura</name></editor>
+			</titleStmt>
+			<editionStmt>
+				<edition>2009-05-12</edition>
+			</editionStmt>
+			<extent>4 kb</extent>
+			<publicationStmt>
+				<publisher>Miami University</publisher>
+				<pubPlace>Oxford, OH 45056</pubPlace>
+				<availability>
+					<p>Usable according to the Creative Commons License <ref
+							target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution
+							Non-commercial Share-alike</ref>.</p>
+				</availability>
+				<idno>stevens1950</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a">Large Red Man Reading</title>
+						<author><name>Stevens, Wallace, 1879-1955</name></author>
+					</analytic>
+					<monogr>
+						<title level="m">The Auroras of Autumn</title>
+						<author><name>Stevens, Wallace, 1879-1955</name></author>
+						<editor><name>Simon Says</name></editor>
+						<imprint>
+							<publisher>Alfred A. Knopf</publisher>
+							<pubPlace>New York, NY, US</pubPlace>
+							<date>1950-00-00</date>
+							<biblScope unit="page">28-30</biblScope>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl>
+				<quotation>
+					<p>All quotation marks and apostrophes have been transcribed as entity
+						references.</p>
+				</quotation>
+				<hyphenation eol="none">
+					<p>Any dashes occurring in line breaks have been removed.</p>
+					<p>Because of web browser variability, all colons and hyphens have been typed on
+						the U.S. keyboard; dashes have been rendered as two hyphens.</p>
+				</hyphenation>
+				<normalization method="silent">
+					<p>Page numbers appear at the beginning of each page, no matter where originally
+						placed.</p>
+				</normalization>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition xml:id="indent1" scheme="css">margin-left: 1.5em;</rendition>
+				<rendition xml:id="indent2" scheme="css">margin-left: 2.5em;</rendition>
+				<rendition xml:id="center" scheme="css">text-align: center;</rendition>
+			</tagsDecl>
+			<classDecl>
+				<taxonomy xml:id="g">
+					<bibl>genre</bibl>
+					<category xml:id="g1">
+						<catDesc>prose</catDesc>
+					</category>
+					<category xml:id="g2">
+						<catDesc>poetry</catDesc>
+					</category>
+				</taxonomy>
+				<taxonomy xml:id="p">
+					<category xml:id="p1">
+						<catDesc>Elizabethan</catDesc>
+					</category>
+					<category xml:id="p2">
+						<catDesc>Neoclassical</catDesc>
+					</category>
+					<category xml:id="p3">
+						<catDesc>Romantic</catDesc>
+					</category>
+					<category xml:id="p4">
+						<catDesc>Victorian</catDesc>
+					</category>
+					<category xml:id="p5">
+						<catDesc>Modernism</catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<catRef target="#g2"/>
+				<catRef target="#p5"/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change><label>Changed by the editor</label><name>Mandell,
+					Laura</name><date>2009-05-12</date><list>
+					<item>TEI-encoded using P5</item>
+				</list></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="poem">
+				<head><title>LARGE RED <hi>man</hi> READING</title></head>
+				<byline>By Wallace Stevens</byline>
+				<lg type="stanza" n="1">
+					<l rendition="#indent1">There were ghosts that returned to earth to hear his
+						phrases,</l>
+					<l>As he sat there reading, aloud, the great blue tabulae.</l>
+					<l rendition="#indent2">They were those from the wilderness of stars that had
+						expected more.</l>
+				</lg>
+				<lg type="stanza" n="2">
+					<l rendition="#indent1">There were those that returned to hear him read from the
+						poem of life,</l>
+					<l>Of the pans above the stove, the pots on the table, the tulips among
+						them.</l>
+					<l rendition="#indent2">They were those that would <hi>have</hi> wept to step
+						barefoot into reality,</l>
+				</lg>
+				<lg type="stanza" n="3">
+					<l rendition="#indent1">They would have wept and been happy, have shivered in
+						the frost</l>
+					<l>And cried out to feel it again, have run fingers over leaves</l>
+					<l rendition="#indent2">And against the most coiled thorn, have seized on what
+						was ugly</l>
+				</lg>
+				<lg type="stanza" n="4">
+					<l rendition="#indent1">And laughed, <hi>aaasss</hi> he sat there reading, from
+						out of the purple tabulae,</l>
+					<l>The outlines of being and its expressing, the syllables of its law:</l>
+					<l rendition="#indent2">Poesis, poesis, the literal characters, the vatic
+						lines,</l>
+				</lg>
+				<lg type="stanza" n="5">
+					<l rendition="#indent1">Which in those ears and in those thin, those spended
+						hearts,</l>
+					<l>Took on color, took on shape and the size of things as they are</l>
+					<l rendition="#indent2">And spoke the feeling for them, which was what they had
+						lacked.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
