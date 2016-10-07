@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Monologue, or Soliloquy on the Annuals</title>
+            <author>
+               <name>John Wilson</name>
+            </author>
+            <editor>
+               <name>Laura Mandell</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1829-12</date>
+            </edition>
+         </editionStmt>
+         <extent>TEI formatted filesize uncompressed: approx. 28 kbytes</extent>
+         <publicationStmt>
+            <publisher>King Library, Miami University</publisher>
+            <pubPlace>Oxford, OH</pubPlace>
+            <date>2004-06-26</date>
+            <availability status="unknown">
+               <p> Miami University makes a claim of copyright only to original contributions
+                        made by the Poetess Archive participants and other members of the university
+                        community. Miami University makes no claim of copyright to the original
+                        text. Permission is granted to download, transmit or otherwise reproduce,
+                        distribute or display the contributions to this work claimed by Miami
+                        University for non-profit educational purposes, provided that this header is
+                        included in its entirety. For inquiries about commercial uses, please
+                        contact laura.mandell@gmail.com. </p>
+            </availability>
+            <idno>wilson1829</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title>The Poetess Archive: an Electronic Collection</title>
+            <respStmt>
+               <name>Laura Mandell,</name>
+               <resp>General Editor.</resp>
+            </respStmt>
+         </seriesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author>
+                     <name>John Wilson</name>
+                  </author>
+                  <title level="a" type="main">Monologue, </title>
+                  <title level="a" type="subordinate">or Soliloquy on the Annuals</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Blackwood's Edinburgh Review</title>
+                  <imprint>
+                     <biblScope unit="volume">26 </biblScope>
+                     <date>1829-12</date>
+                     <biblScope unit="page">948-976 </biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This document follows the rules specified for TEI use by NINES.</p>
+            <p>All quotation marks and apostrophes have been transcribed as entity
+                    references.</p>
+            <p>Any dashes occurring in line breaks have been removed.</p>
+            <p>Because of web browser variability, all colons and hyphens have been typed on the
+                    U.S. keyboard; dashes have been rendered as two hyphens.</p>
+            <p>Special characters (letters with accents, etc.) have been coded according to
+                    Unicode rather than as entity references.</p>
+            <p>Page numbers appear at the beginning of each page, no matter where originally
+                    placed.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>
+               <title>"Monologue, or Soliloquy on the Annuals"</title>
+            </head>
+            <byline>
+               <name>John Wilson</name>
+            </byline>
+            <p>[In <biblStruct>
+                  <monogr>
+                     <title>Blackwood's Edinburgh Magazine</title>
+                     <imprint>
+                        <biblScope unit="volume">26</biblScope>
+                        <date>1829-12</date>
+                        <biblScope unit="page">948-976</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>] </p>
+            <p>PERIODICAL Literature — how sweet is the name! ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: We omit an extended riff praising the annuals by metaphorically equating them with plants and flowers.</note> We often pity our poor ancestors. ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: This sentence about having nothing to do may confuse readers because of its use of the phrase'make ends meet' for gratifying interest..</note> What a weary waste must have seemed expanding before their eyes between
+                    morning and night! ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: one sentence for emphasis</note> True, ladies sighed not then for periodicals — but there, in the depths
+                    of their ignorance, lay their utter wretchedness....<note place="foot" resp="Poetess Archive Editor">editorial truncation: omitted sentence offsets passage's parallel structure</note> True that many sat all life-long at needle-work; but is not that a very
+                    sew-sew sort of life? Then oh! the miserable males! We speak of times after the
+                    invention, it is true, of printing — but who read what were called books
+                    then? Books! no more like our periodicals, than dry, rotten, worm-eaten, fungous
+                    logs are like green living leafy trees, laden with dews, bees, and birds, in the
+                    musical sunshine. What could males do then but yawn, sleep, snore, guzzle,
+                    guttle, and drink till they grew dead and got buried?...<note place="foot" resp="Poetess Archive Editor">editorial truncation: a passage about fox hunting as a passtime.</note>
+                    [D]eath itself is no relief to the dulness; a funeral is little better...<note place="foot" resp="Poetess Archive Editor">editorial truncation: clause about types of burial</note> ; along with
+                    the sables is worn a suitable stupidity by all the sad survivors – And such,
+                    before the era of Periodicals, such was life in merry England. Oh! dear! – oh!
+                    dear me! </p>
+            <p>...<note place="foot" resp="Poetess Archive Editor">editorial truncation: aside attacking The Quarterly</note>[I]n the
+                    times we allude to (don’t mention dates) there was little or no reading in
+                    England. There was neither the Reading Fly nor the Reading Public. What could
+                    this be owing to, but the non-existence of periodicals? What elderly-young lady
+                    could be expected to turn from house affairs, for example, to Spenser's Fairy
+                        Queen?...<note place="foot" resp="Poetess Archive Editor">editorial truncation: description of the Fairy Queen</note>
+                    As to Shakespeare, we cannot find many traces of him in the domestic occupations
+                    of the English gentry during the times alluded to ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: aside about Hamlet</note> . We have Mr
+                    Wordsworth's authority for believing that Paradise Lost was a dead letter, and
+                    John Milton virtually anonymous. We need say no more. Books like these, huge
+                    heavy vols. lay with other lumber in garrets and libraries. As yet, periodical
+                    literature was not; and the art of printing seems long to have preceded the art
+                    of reading. It did not occur to those generations that books were intended to be
+                    read by people in general, but only by the select few. Whereas now, reading is
+                    not only one of the luxuries, but absolutely one of the necessaries of life, and
+                    we no more think of going without our book than without our breakfast;...<note place="foot" resp="Poetess Archive Editor">editorial truncation: phrase containing an obscure allusion to Welsh rarebit</note> — Thomas Campbell and Thomas Mo[o]re sweeten tea for us —...<note place="foot" resp="Poetess Archive Editor"/>
+                    .</p>
+            <p>We have not time ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: confusing sentence structure</note> to trace the history of the great revolution. But a great revolution there
+                    has been, from nobody’s reading anything, to everybody’s reading all things; and
+                    perhaps it began with that good old proser Richardson. He set the public
+                    a-reading, and Fielding Smollett shoved her on — till the Minerva Press
+                    took her in hand — and then — the Periodicals. But such Periodicals!
+                        <title level="j">The Gentleman's Magazine </title>—God bless it then,
+                    now, and forever!— <title level="j">the Monthly Review</title>, <title level="j">the Critical</title> and <title level="j">the British
+                        Critic</title>! The age had been for some years literary, and was now fast
+                    becoming periodical. Magazines multiplied. Arose in glory <title level="j">the
+                        Edinburgh</title>, and then <title level="j">the Quarterly Review</title>
+                    — <title level="j">Maga</title>,<note place="foot" resp="Poetess Archive Editor">
+                  <bibl>
+                     <title level="j">Blackwood's Edinburgh Review</title> was also called
+                                <hi rend="it">Maga</hi>;</bibl> it is the periodical in which this
+                        essay appears. [Poetess Archive Editor.] </note> like a new sun, looked out
+                    from heaven ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: extended                         metaphor</note>
+                    —and last of all, "the Planetary Five," the Annuals,<note place="foot" resp="Poetess Archive Editor">Also called <soCalled>Gift Books</soCalled>,
+                        collections of poetry published annually and lavishly embellished were the
+                        major medium for publication of poetess poetry (see <bibl>
+                     <author>
+                        <name>Cynthia Lawford</name>
+                     </author>, "Bijoux Beyond Possession: The Prima Donnas of L.E.L.'s Album
+                            Poems," and <author>
+                        <name>Paula Feldman</name>
+                     </author>
+                  </bibl>, "The Poet and the Profits: Felicia Hemans and the Literary
+                        Marketplace," in <bibl>
+                     <author>
+                        <name>Armstrong</name>
+                     </author> and <author>
+                        <name>Blain</name>
+                     </author>, <title level="m">Women’s Poetry, Late Romantic to late
+                                Victorian,</title>
+                  </bibl> 102-114 and 71-101, respectively. [Poetess Archive Editor.] </note>
+                    hung their lamps on high; other similar luminous bodies emerged from the clouds,
+                    till the whole circumference was bespangled, and astronomy became the favourite
+                    study with all ranks of people, from the King upon the throne to the meanest of
+                    his subjects. Now, will any one presume to deny, that this has been a great
+                    change to the better, and that there is now something worth living for in the
+                    world? Look at our literature now, and it is all periodical together. A thousand
+                    daily, thrice-a-week, twice-a-week, weekly newspapers, a hundred monthlies,
+                    fifty quarterlies, and twenty-five annuals! No mouth looks up now and is not
+                    fed; on the contrary, we are now in danger of being crammed; an empty head is as
+                    rare as an empty stomach; the whole day is one meal, one physical, moral, and
+                    intellectual feast; the Public goes to bed with a Periodical in her hand, and
+                    falls asleep with it beneath her pillow. </p>
+            <p>What blockhead thinks now of reading Milton, or Pope, or Gray? <title> Paradise
+                        Lost </title> is lost; it has gone to the devil. Pope's Epistles are
+                    returned to the dead-letter office; the age is too loyal for <quote>"ruin seize
+                        thee, ruthless king,"</quote>
+               <note place="foot" resp="Poetess Archive Editor">
+                  <hi>
+                     <quote>"ruin seize thee, ruthless king"</quote>
+                  </hi>: Wilson quotes the first line of <bibl>
+                     <author>
+                        <name>Thomas Gray,</name>
+                     </author>
+                     <title level="a">The Bard</title>
+                     <date>(1757)</date>.</bibl> [Poetess Archive Editor.] </note> and the
+                    oldest inhabitant has forgotten <quote>"the curfew tolls."</quote>
+               <note place="foot" resp="Poetess Archive Editor">
+                  <hi>
+                     <quote>"the curfew tolls"</quote>
+                  </hi>: these are the first three words of the first line of <bibl>
+                     <title level="a">Elegy Written in a Country Churchyard</title> by <author>
+                        <name>Gray</name>
+                     </author>
+                     <date>(1751)</date>.</bibl> [Poetess Archive Editor.] </note>
+            </p>
+            <p>All the great geniuses of the day are Periodical. The Scotch Novels — the
+                    Irish Novels — the English Novels — the American Novels — the
+                    Family Library — the Library of Useful and Entertaining Knowledge —
+                    Napier's History of the Spanish War — Tytler's History of Scotland —
+                    Chalmers's Civic Economy — But what is the need of enumeration —
+                    every work worth reading is published in numbers ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: enumeration of titles as examples</note> .</p>
+            <p>What Donkey was the first to bray that the Annuals, the subject of this our
+                    Monologue, were introduced into this country from Germany? Gentle reader, did
+                    you ever see a German Annual, or Literary Almanack? ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: direct satire</note> . But you know better —
+                    you know that the Annuals are a native growth of the soil of England, springing
+                    up like white and red clover beneath lime (a curious fact that) wherever the
+                    periodical ploughshare has drawn its furrows. ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: extended metaphor</note>
+            </p>
+            <p>But lo! arrayed in figure of a fan, and gorgeous as spread-peacocktail —
+                    the Annuals! ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: extended metaphor</note> They have
+                    formed themselves into classes beneath our touch — according to some fine
+                    affinities of name and nature; and behold in one Triad, the <title level="j">Forget-me-Not </title>, the <title level="j">Souvenir </title>, and the
+                        <title level="j">Keepsake</title>. </p>
+            <p>One word embraces them all — Memorials. When <quote>"absent long and
+                        distant far,"</quote>
+               <note place="foot" resp="Poetess Archive Editor">
+                  <hi>
+                     <quote>"absent long and distant far"</quote>
+                  </hi>: Wilson quotes <bibl>
+                     <author>
+                        <name>Anne Home Hunter</name>
+                        <name>(Mrs. John Hunter)</name>
+                     </author>, <title level="a">La Douce Chimère</title> (line 29), <title level="m">Poems</title>
+                     <date>(1802)</date>.</bibl> [Poetess Archive Editor.] </note> the
+                    living, lovely, loving, and beloved, how often are they utterly forgotten! But
+                    let something that once was theirs suddenly meet our eyes, and in a moment,
+                    returning from the region of the rising or the setting sun, lo! the friend of
+                    our youth is at our side, unchanged his voice and his smile; and dearer to our
+                    eyes than ever, because of some slight, faint, and affecting change wrought on
+                    face and figure by climate and by years! Let it be but his name written with his
+                    own hand, on the title-page of a book; or a few syllables on the margin of a
+                    favourite passage which long ago we may have read together, <quote>"when life
+                        itself was new,"</quote>
+               <note place="foot" resp="Poetess Archive Editor">
+                  <hi>
+                     <quote>"when life itself was new"</quote>
+                  </hi>: Wilson quotes <bibl>
+                     <title level="a">The Old Man’s Song</title> by <author>
+                        <name>James Montgomery</name>
+                     </author>, co-author of <title level="m">Poems on the Abolition of the
+                                Slave Trade</title>
+                     <date>(1809)</date>
+                  </bibl>. [Poetess Archive Editor.] </note> and poetry overflowed the whole
+                    world! Or a lock of her hair in whose eyes we first knew the meaning of the word
+                        <soCalled>depth</soCalled> applied to the human soul, or the celestial sky!
+                    But oh! if death hath stretched out and out into the dim arms of eternity the
+                    distance — and removed away into that bourne from which no traveller
+                        returns<note place="foot" resp="Poetess Archive Editor">
+                  <hi>and removed away into that bourne from which no traveller returns</hi>:
+                        Wilson's phrase comes from <bibl>
+                     <author>
+                        <name>William Shakespeare</name>
+                     </author>
+                     <title>Hamlet</title> III.i.78-79:</bibl>
+                  <quote>"The undiscover’d country, from whose bourn / No traveller
+                            returns."</quote> [Poetess Archive Editor.] </note> the absence —
+                    of her on whose forehead once hung the relic we adore in our despair —
+                    what heart may abide the beauty of the ghost that, as at the touch of a
+                    talisman, doth sometimes at midnight appear before our sleepless bed, and with
+                    pale uplifted arms waft over us — so momentary is the vision — at
+                    once a blessing and a farewell! </p>
+            <p>But we must be cheerful, for these are cheerful volumes, and they are bound in
+                    smiles. Yet often <quote>"cheerful thoughts bring sad thoughts to the
+                        mind,"</quote>
+               <note place="foot" resp="Poetess Archive Editor">
+                  <hi>
+                     <quote>"cheerful thoughts bring sad thoughts to the mind,"</quote>
+                  </hi>: Wilson quotes <bibl>
+                     <author>
+                        <name>William Wordworth</name>
+                     </author>, <title level="a">Lines Written in Early Spring</title>,
+                                <title level="m">Lyrical Ballads</title>
+                     <date>(1798)</date>
+                  </bibl>: <quote>"In that sweet mood when pleasant thoughts / Bring sad
+                            thoughts to the mind."</quote> [Poetess Archive Editor.]</note> and the
+                    eye slides away insensibly from the sunshine to the cloud-shadows, feeling that
+                    they are bound together in beauty by one spirit ...<note place="foot" resp="Poetess Archive Editor"/> . </p>
+            <p>But come — this will never do; we shall never, at this rate, get to the
+                    Annuals. Now, then, for the </p>
+            <p>FORGET-ME-NOT.</p>
+            <p>The name is a good one and belongs, we believe, to a pretty little flower of a
+                    truly poetical character, that loves to smile in the shade. Forget-me-Not! why
+                    there is no fear — no danger at least, of that, my love; yet were we to
+                    forget thee, for an hour in the day, or a day in the week, where would be the
+                    harm? ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: extended metaphor</note> Mr Ackerman, you
+                    are one of the best bibliopoles — Mr Shoberl, though your name is hard to
+                    pronounce, you are a most worthy editor. ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: reviews of particular pieces in this collection</note> — Shaded in the solitary arbour there sits, with her lyre laid on roses
+                    by her side, the dark-haired Improvisatrice; and we who never saw her face,
+                    though we have in numerous verses seen her very soul, cannot but have a dream of
+                    L. E. L. ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: reviews continue of particular pieces</note>
+            </p>
+            <p>Not much poetry, we observe, in <title level="j">the Forget-me-Not</title>
+                    — so much, perhaps, the better; yet what there is, is either agreeable,
+                    curious, or good; or all the three in one, such as the lines by Francis Jeffrey,
+                    written originally in a lady's album. ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: poem reprinted</note> — Barry Cornwall<note place="foot" resp="Poetess Archive Editor">
+                  <bibl>
+                     <author>
+                        <name>
+                           <anchor xml:id="cornwall"/>Barry Cornwall</name>
+                     </author>
+                  </bibl> is the pseudonym for <bibl>
+                     <author>
+                        <name>Bryan Procter</name>
+                     </author>
+                  </bibl>, a name that Wilson uses subsequently, although he erroneously
+                        spells it "<hi>Proctor</hi>." [Poetess Archive Editor.]</note> often writes
+                    beautifully — but why will he persist in being ...<note place="foot" resp="Poetess Archive Editor"/> so Cockneyish? ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: poem reprinted</note> [I]f a man who is privileged
+                    to drink of the pure waters of Helicon<note place="foot" resp="Poetess Archive Editor">"Helicon" is the name of a mountain in Boeotia
+                        sacred to the Muses (O.E.D.) [Poetess Archive Editor.]</note> prefer
+                    dabbling his lips in the puddle of the New River,<note place="foot" resp="Poetess Archive Editor">The New River is a river in London, tributary
+                        to the Thames, at this time providing the metropolis with water; see
+                        BOPCRIS: "New River." [Poetess Archive Editor.]</note> there seems to be no
+                    help for it. 'Tis distressing to hear him who can sing like a nightingale,
+                    screeching like a sparrow with a sore throat. <ref target="#cornwall">
+                  <name>Mr Proctor</name>
+               </ref> will pardon us, but we grieve to see him the only Cockney in the
+                    Collection. We are very angry; for we never entirely lose our temper with any
+                    poet whose genius has not, in its happier moments, given us delight. As for Lord
+                    Byron's boyish verses ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: evaluation of those verses</note> ; what an
+                    absurdity it is for a man of sense, taste, and judgment, like Mr Shoberl, to
+                    suppose that any value can be given to his volume by [adding] such verses as the
+                    weakest, worst, and most worthless of "Poems by a Minor"<note place="foot" resp="Poetess Archive Editor">Wilson misrembers the title: <bibl>
+                     <hi>Hours of Idleness</hi>
+                     <date>(1807)</date>;</bibl> Byron responded to criticism of the volume
+                        by writing and publishing <bibl>
+                     <title level="a">English Bards and Scotch Reviewers</title>
+                     <date>(1809)</date>.</bibl> [Poetess Archive Editor.]</note> when we all
+                    know that, with one or two exceptions, Byron was ashamed of the very best of
+                    them; and that even the very best afforded no intimation of his future genius,
+                    which was the sudden growth of his inspired manhood. — Miss Jewesbury's
+                    "Lines on Receiving a Bunch of Flowers from the Author of the
+                        <title>Excursion</title>" are worthy of the subject, — and so
+                    beautiful, indeed, that with them we must adorn our Number.</p>
+            <p>...<note place="foot" resp="Poetess Archive Editor">editorial truncation: poem printed</note>
+            </p>
+            <p> We have no room to praise, and no inclination to abuse, any body else in the <hi rend="it"> the Forget-me-Not </hi>...<note place="foot" resp="Poetess Archive Editor"/> . It has long had, and long will have, a deservedly extensive circulation
+                    — its embellishments are beautiful — and the whole volume inspired
+                    by a benign spirit of humanity, which disposes us to think with much esteem and
+                    regard of Publisher, Editor, and Contributors, even the stupidest among them,
+                    — and that some of them are pretty stupid in their own way, it would be
+                    hypocrisy to conceal, and impudence to deny; but we see no reason why a little
+                    occasional and temporary stupidity should not be as excusable in Ackerman's
+                        <title level="j">Forget-me-Not </title>, as in <title level="j">Blackwood's
+                        Magazine</title>. ...<note place="foot" resp="Poetess Archive Editor">editorial truncation: other annuals reviewed</note>
+            </p>
+         </div>
+      </body>
+      <back>
+         <head>
+            <hi>Notes</hi>
+         </head>
+      </back>
+   </text>
+</TEI>
